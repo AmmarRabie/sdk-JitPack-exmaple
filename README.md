@@ -13,4 +13,5 @@ Example on how to introduce the one line integration with our SDK.
 3. press "Get It" beside the release version inside jitpack. this will sync the repo inside jitpack
 
 ## Ref
-[How to create and publish an Android Library](https://sgkantamani.medium.com/how-to-create-and-publish-an-android-library-f37bf715932)
+* [How to create and publish an Android Library](https://sgkantamani.medium.com/how-to-create-and-publish-an-android-library-f37bf715932)
+* JitPack - Publish an Android library
